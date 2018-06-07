@@ -1,0 +1,9 @@
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.deps.json
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.AssemblyInfoInputs.cache
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.AssemblyInfo.cs
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.csprojAssemblyReference.cache
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.dll
+D:\Projects\selenium\SeleniumWithNetCore\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.pdb

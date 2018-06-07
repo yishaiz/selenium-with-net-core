@@ -1,0 +1,14 @@
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\SeleniumWithNetCore.deps.json
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\SeleniumWithNetCore.runtimeconfig.json
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\SeleniumWithNetCore.runtimeconfig.dev.json
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\SeleniumWithNetCore.dll
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\bin\Debug\netcoreapp2.0\SeleniumWithNetCore.pdb
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\obj\Debug\netcoreapp2.0\SeleniumWithNetCore.csprojAssemblyReference.cache
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\obj\Debug\netcoreapp2.0\SeleniumWithNetCore.csproj.CoreCompileInputs.cache
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\obj\Debug\netcoreapp2.0\SeleniumWithNetCore.AssemblyInfoInputs.cache
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\obj\Debug\netcoreapp2.0\SeleniumWithNetCore.AssemblyInfo.cs
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\obj\Debug\netcoreapp2.0\SeleniumWithNetCore.dll
+D:\Projects\selenium\SeleniumWithNetCore\SeleniumWithNetCore\obj\Debug\netcoreapp2.0\SeleniumWithNetCore.pdb
